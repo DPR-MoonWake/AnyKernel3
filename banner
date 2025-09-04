@@ -1,16 +1,30 @@
-===================================================
-     *          *       *      *        *     *   
-  *        *          *     *      *         *    
-      *     *     *        *   *       *     *    
- *        *     *        *        *         *     
-    *        *      *        *        *         * 
-===================================================
- - MoonWake Kernel
+======================================================
+  WARNING: EXPERIMENTAL VERSION, MAY CONTAIN BUGS
+======================================================
+     *          *       *      *        *     *     
+  *        *          *     *      *         *      
+      *     *     *        *   *       *     *      
+ *        *     *        *        *         *       
+    *        *      *        *        *         *   
+======================================================
+ - MoonWake Kernel [EXPERIMENTAL]
  - Build with RainyLand Github CI workflow
  - By RainyXeon
-===================================================
+======================================================
  - Telegram:       t.me/rainy_land_releases
  - Chat:           t.me/rainy_land_release_chat
  - Device Channel: t.me/RedmiNote12ProPlusUpdates
  - Device Group:   t.me/RedmiNote12ProPlusCommunity
-===================================================
+======================================================
+  WARNING: This is an EXPERIMENTAL kernel build!     
+  Flashing may cause bootloops, crashes, or damage.  
+  You take full responsibility for any results.      
+------------------------------------------------------
+  If something goes wrong, reflash the original      
+  boot.img from your ROM by:                         
+   - fastboot flash boot boot.img                    
+   - Or restore via your custom recovery             
+------------------------------------------------------
+  Do not flash unless you know what you are doing.   
+  Proceed only if you accept the risks.              
+======================================================
