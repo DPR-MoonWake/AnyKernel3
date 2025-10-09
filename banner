@@ -1,5 +1,13 @@
 ======================================================
-  WARNING: EXPERIMENTAL VERSION, MAY CONTAIN BUGS
+                WARNING: CUSTOM BUILD
+======================================================
+                        __
+                     -=(o '.
+                        '.-.\
+                        /|  \\
+                        '|  ||
+               snd       _\_):,_
+
 ======================================================
      *          *       *      *        *     *     
   *        *          *     *      *         *      
@@ -7,7 +15,7 @@
  *        *     *        *        *         *       
     *        *      *        *        *         *   
 ======================================================
- - MoonWake Kernel [EXPERIMENTAL]
+ - MoonWake Kernel [CUSTOM]
  - Build with RainyLand Github CI workflow
  - By RainyXeon
 ======================================================
@@ -16,15 +24,8 @@
  - Device Channel: t.me/RedmiNote12ProPlusUpdates
  - Device Group:   t.me/RedmiNote12ProPlusCommunity
 ======================================================
-  WARNING: This is an EXPERIMENTAL kernel build!     
-  Flashing may cause bootloops, crashes, or damage.  
-  You take full responsibility for any results.      
-------------------------------------------------------
-  If something goes wrong, reflash the original      
-  boot.img from your ROM by:                         
-   - fastboot flash boot boot.img                    
-   - Or restore via your custom recovery             
-------------------------------------------------------
-  Do not flash unless you know what you are doing.   
-  Proceed only if you accept the risks.              
+  WARNING: This CUSTOM build is only for someone who
+  request for a custom build, it's free after all -_-
+======================================================
+ IT MAY NOT INCLUDE ALL FEATURES IN MOONWAKE OFFICIAL
 ======================================================
